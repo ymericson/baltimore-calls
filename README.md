@@ -1,5 +1,5 @@
 
-## Baltimore City Police Emergency and Non-Emergency 911 Calls for Service, 2015-2018
+### Baltimore City Police Emergency and Non-Emergency 911 Calls for Service, 2015-2018
 
 This notebook will analyze Baltimore's 911 police calls for service data, which can be obtained from Open Baltimore. The calls dates range from January 1st, 2015 to present. There are 3.6 million rows as of July 1st, 2018, each row representing an individual call. Data is automatically refreshed multiple times a day.
 
