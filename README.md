@@ -25,7 +25,7 @@ The data contains the following fields:
 * incidentLocation: String variable, location of incident 	
 * location: String variable, location of call
 
-### Limitationa
+### Limitations
 
 **Reporting**: The 911 calls do not account for all crimes tha occured in Baltimore, since some are not reported. However, it is a big dataset and we are able to observe several trends over time.
 
